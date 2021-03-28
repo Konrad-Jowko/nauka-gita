@@ -3,6 +3,11 @@
 	box-sizing: border-box;
 }
 
+body {
+  background: #000000;
+  color: #fff;
+}
+
 .container {
   width: 500px;
   height: 1000px;
